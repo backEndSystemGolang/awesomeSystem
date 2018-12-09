@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "beego_workspace/awesomeSystem/routers"
+	_ "beego_workspace/awesomeSystem/rzrouters"
 	"github.com/astaxie/beego"
 )
 
