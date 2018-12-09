@@ -6,5 +6,6 @@ import (
 )
 
 func init() {
+    //haha	
     beego.Router("/", &controllers.MainController{})
 }
