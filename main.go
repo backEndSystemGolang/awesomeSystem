@@ -1,11 +1,10 @@
 package main
 
 import (
-	_ "beego_workspace/awesomeSystem/rzrouters"
 	"github.com/astaxie/beego"
+	_ "github.com/backEndSystemGolang/awesomeSystem/rzrouters"
 )
 
 func main() {
 	beego.Run()
 }
-
