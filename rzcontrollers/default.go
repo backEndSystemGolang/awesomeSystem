@@ -1,4 +1,4 @@
-package controllers
+package rzcontrollers
 
 import (
 	"github.com/astaxie/beego"
